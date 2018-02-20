@@ -1,0 +1,20 @@
+{
+  "name": "session",
+  "authors": [
+    "nirmal-aaneel <nirmal.bhagwani@aaneel.com>"
+  ],
+  "description": "for learning",
+  "main": "learn.js",
+  "keywords": [
+    "learn"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
